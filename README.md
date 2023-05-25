@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed K.Idris</h1>
 <h3 align="center">A Machine Learning developer from Egypt</h3>
 
+(https://www.kaggle.com/mohamedkhaledidris)
+
 - 🔭 I’m currently Student at [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAEDKHALED](https://github.com/MOHAEDKHALED)
