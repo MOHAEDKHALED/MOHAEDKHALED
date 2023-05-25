@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed K.Idris</h1>
 <h3 align="center">A Machine Learning developer from Egypt</h3>
-![Image]("C:\Users\GRAPHICS\Desktop\photo_2023-05-26_00-21-59.jpg")
+<img src="https://storage.googleapis.com/kaggle-avatars/images/14610771-kg.jpg" alt="Image" width="300" height="200">
 
 - 🔭 I’m currently Student at [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
 
