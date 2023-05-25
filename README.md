@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed K.Idris</h1>
 <h3 align="center">A Machine Learning developer from Egypt</h3>
-<img src="https://media.licdn.com/dms/image/D4D03AQG5WSkGNWeotA/profile-displayphoto-shrink_400_400/0/1685050689148?e=1690416000&v=beta&t=FdkgYU-UoLWhwnhYruuL73veWE9RCOgckxA9kaVJThM" alt="Image" width="300" height="320"><br>
+<p align="center">
+  <img src="image_url" alt="Image" width="300" height="320">
+</p>
+
 - 🔭 I’m currently Student at [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAEDKHALED](https://github.com/MOHAEDKHALED)
