@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed K.Idris</h1>
 <h3 align="center">A Machine Learning developer from Egypt</h3>
 
-https://storage.googleapis.com/kaggle-avatars/images/14610771-kg.jpg
+![I am GitHub Readme Generator's creator](https://storage.googleapis.com/kaggle-avatars/images/14610771-kg.jpg)
 
 - 🔭 I’m currently Student at [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
 
@@ -20,3 +20,12 @@ https://storage.googleapis.com/kaggle-avatars/images/14610771-kg.jpg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
