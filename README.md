@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently Student at [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MOHAEDKHALED](https://github.com/MOHAEDKHALED)
-- and [https://www.kaggle.com/mohamedkhaledidris](https://www.kaggle.com/mohamedkhaledidris)
+- 👨‍💻 All of my projects are available at [https://github.com/MOHAEDKHALED](https://github.com/MOHAEDKHALED) and [https://www.kaggle.com/mohamedkhaledidris](https://www.kaggle.com/mohamedkhaledidris)
 
 - 💬 Ask me about **Python , Machine Learning and Artificial Intelligence**
 
