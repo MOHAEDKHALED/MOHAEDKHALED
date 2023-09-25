@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python , Machine Learning and Artificial Intelligence**
 
-- 📫 How to reach me **mohamedkhaled32105151@gmail.com** and **[+20 103 068 5082]**
+- 📫 How to reach me **mohamedkhaled32105151@gmail.com** and [+20 103 068 5082](+20 103 068 5082)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
