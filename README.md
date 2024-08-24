@@ -2,7 +2,7 @@
 <h3 align="center">A Machine Learning Engineer from Egypt</h3>
 
 
-- 🔭 I’m currently Student at [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
+- 🔭 I’m AI Engineer & a Computer Science Graduate from [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAEDKHALED](https://github.com/MOHAEDKHALED) and [https://www.kaggle.com/mohamedkhaledidris](https://www.kaggle.com/mohamedkhaledidris)
 
