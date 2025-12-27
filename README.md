@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed K.Idris</h1>
-<h3 align="center">A Machine Learning Engineer from Egypt</h3>
+<h3 align="center">Software Developer and Data Scientist </h3>
 
 
-- 🔭 I’m AI Engineer & a Computer Science Graduate from [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
+- 🔭 I’m  Software Developer - AI Engineer & a Computer Science Graduate from [Faculty of Computers and Artificial Intelligence Fayoum University](https://www.fayoum.edu.eg/fcifym/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAEDKHALED](https://github.com/MOHAEDKHALED) and [https://www.kaggle.com/mohamedkhaledidris](https://www.kaggle.com/mohamedkhaledidris)
 
